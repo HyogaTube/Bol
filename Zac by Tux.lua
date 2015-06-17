@@ -30,7 +30,10 @@
 10.local wRange = 275
 
 
-11.local eRange = 
+11.local eRange = 1150
+
+
+Local rRange = 300
 
 
 12.function OnLoad()
