@@ -1,5 +1,5 @@
 Versão 1.4.8
-Crétidos Chronoos E Hyoga
+Crétidos Kronos VIADO E Hyoga
 Relato de bug me add no skype
 Eu ri
 
