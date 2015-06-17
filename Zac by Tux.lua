@@ -24,13 +24,13 @@
 8.local ts = TargetSelector(TARGET_LOW_HP,600,DAMAGE_MAGIC,true)
 
 
-9.local qrRange = 500
+9.local qrRange = 550
 
 
 10.local wRange = 275
 
 
-11. 
+11.local eRange = 
 
 
 12.function OnLoad()
